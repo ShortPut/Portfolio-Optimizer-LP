@@ -13,4 +13,4 @@ Example Constraints <br /><br />
 ![Constraints](Constraints.png) <br /><br />
 
 Example optimal list of stocks subject to constraints (with objective of maximizing amount of capital invested) <br /><br />
-![Optimal](optimal.png)
+![Optimal](Optimal.png)
